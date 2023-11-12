@@ -1,6 +1,6 @@
 # bechdel_analytics
 
-by Sebastian Bobeth, Dominik Koppen
+by Sebastian Bobeth, Dominik Koppen  
 Created in November 2023
 
 
