@@ -1,6 +1,6 @@
 # "BECHDFLIX" - Bechdel Analytics
 
-by Sebastian Bobeth, Dominik Koppen  
+By Sebastian Bobeth, Dominik Koppen  
 Created in November 2023
 
 
