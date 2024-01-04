@@ -28,20 +28,20 @@ We built a relational database to link the datasets and to account for a many-to
 ## RESULTS 
 Our analyses reveals that there is a sufficient market for movies passing the Bechdel test.
 - There are movies passing the Bechdel test present in major and indie productions, which provides a wide range of options regarding the movie inventory.  
+![Production types](https://github.com/seblap86/bechdel_analytics/blob/main/visualizations/avg_bechdel_score_by_production_type.jpg?raw=true)
 <br>
-![Database schema](https://github.com/seblap86/bechdel_analytics/blob/main/visualizations/avg_bechdel_score_by_production_type.jpg?raw=true)
 
 - Genres such as TV movies, music-related movies, romances are, on average, scoring better than genres such as war movies, documentaries, or western movies, which influences purchase options/decisions and the potential target group.  
+![Genres](https://github.com/seblap86/bechdel_analytics/blob/main/visualizations/avg_bechdel_score_by_genre.jpg?raw=true)
 <br>
-![Database schema](https://github.com/seblap86/bechdel_analytics/blob/main/visualizations/avg_bechdel_score_by_genre.jpg?raw=true)
 
 - Movies that pass all 3 criteria of the Bechdel pass are creating a higher revenue, on average, than movies that fail to pass the Bechdel pass, pointing to a high market potential.  
+![Revenues](https://github.com/seblap86/bechdel_analytics/blob/main/visualizations/avg_revenue_by_bechdel_score.jpg?raw=true)
 <br>
-![Database schema](https://github.com/seblap86/bechdel_analytics/blob/main/visualizations/avg_revenue_by_bechdel_score.jpg?raw=true)
 
 - Over the last decades, movies, on average, are doing better and better in passing the very basic criteria of the test, pointing to a future-proof market.  
+![Decades](https://github.com/seblap86/bechdel_analytics/blob/main/visualizations/avg_bechdel_score_through_decades.png?raw=true)
 <br>
-![Database schema](https://github.com/seblap86/bechdel_analytics/blob/main/visualizations/avg_bechdel_score_through_decades.png?raw=true)
 
 ## CONTENTS OF THIS REPOSITORY
 We provide our cleaned data files, Python and SQL code, as well as visualizations and Tableau files in this repository.
