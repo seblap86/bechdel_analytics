@@ -28,6 +28,7 @@ We built a relational database to link the datasets and to account for a many-to
 ## RESULTS 
 Our analyses reveals that there is a sufficient market for movies passing the Bechdel test.
 - There are movies passing the Bechdel test present in major and indie productions, which provides a wide range of options regarding the movie inventory.  
+<br>  
 ![Production types](https://github.com/seblap86/bechdel_analytics/blob/main/visualizations/avg_bechdel_score_by_production_type.jpg?raw=true)
 <br>
 
